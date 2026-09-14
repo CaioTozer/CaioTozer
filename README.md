@@ -1,33 +1,50 @@
 <div align="center">
 
-
-Caio Tozer
-
-Software Engineer
+# 👋 Hi there
 
 </div>
 
-Software Engineer with experience in developing scalable web applications and enterprise systems, working as a frontend and fullstack developer. Strong proficiency in JavaScript and TypeScript, with hands-on experience in React, Redux, Node.js, and NestJS. Background in fintech and internal corporate systems, focused on clean architecture, engineering best practices, and solving complex problems.
+Software Engineer with experience in developing scalable web applications and enterprise systems, working as a frontend and fullstack developer.
 
-Programming Languages
+Strong proficiency in **JavaScript** and **TypeScript**, with hands-on experience in **React, Redux, Node.js, and NestJS**.
+
+Background in **fintech and internal corporate systems**, focused on clean architecture, engineering best practices, and solving complex problems.
+
+---
+
+## 🚀 Expertise
+
+I'm a Software Engineer focused on building scalable and maintainable applications, with experience across frontend and backend development.
+
+My main focus is writing clean, maintainable code while solving complex business problems and building reliable software systems.
+
+I enjoy working with modern technologies, learning new concepts and continuously improving my engineering skills.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff" />
 </p>
 
-Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-111111?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-</p>
+## 🧠 Engineering
 
-<p align="center">
-  <i>Building scalable systems, solving complex problems, and continuously improving as an engineer.</i>
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  > clean architecture                                       │
+│  > scalable systems                                         │
+│  > complex business rules                                   │
+│  > software engineering best practices                      │
+│  > maintainable code                                        │
+│  > problem solving                                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
