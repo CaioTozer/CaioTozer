@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./profile.png" width="180" alt="Profile picture" />
 
 Caio Tozer
 
